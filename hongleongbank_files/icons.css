@@ -1,0 +1,1210 @@
+@font-face {
+  font-family: 'hlb-icons';
+  src:  url('fonts/hlb-icons.eot?wynefh');
+  src:  url('fonts/hlb-icons.eot?wynefh#iefix') format('embedded-opentype'),
+    url('fonts/hlb-icons.ttf?wynefh') format('truetype'),
+    url('fonts/hlb-icons.woff?wynefh') format('woff'),
+    url('fonts/hlb-icons.svg?wynefh#hlb-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ico-"], [class*=" ico-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'hlb-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ico-vn-junior_savings_account:before {
+  content: "\ea33";
+}
+.ico-vn-available-in-vietnamese1:before {
+  content: "\ea6e";
+}
+.ico-vn-fingerprint-login:before {
+  content: "\e9cc";
+}
+.ico-vn-fx-rates:before {
+  content: "\e9ec";
+}
+.ico-vn-24-hour-worldwide-protection:before {
+  content: "\e9ed";
+}
+.ico-vn-account-overview:before {
+  content: "\e9ee";
+}
+.ico-vn-additional-claims:before {
+  content: "\e9ef";
+}
+.ico-vn-bill-payment:before {
+  content: "\e9f0";
+}
+.ico-vn-clear-your-cache:before {
+  content: "\e9f1";
+}
+.ico-vn-competitive-price:before {
+  content: "\e9f2";
+}
+.ico-vn-credit-life-insurance:before {
+  content: "\e9f3";
+}
+.ico-vn-disable-auto-save-functions:before {
+  content: "\e9f4";
+}
+.ico-vn-do-not-click:before {
+  content: "\e9f5";
+}
+.ico-vn-do-not-share:before {
+  content: "\e9f6";
+}
+.ico-vn-face-id-login:before {
+  content: "\e9f7";
+}
+.ico-vn-family-coverage:before {
+  content: "\e9f8";
+}
+.ico-vn-financing-up-to-70-appraisal-value-of-property:before {
+  content: "\e9f9";
+}
+.ico-vn-flexibility:before {
+  content: "\e9fa";
+}
+.ico-vn-high-fees-coverage:before {
+  content: "\e9fb";
+}
+.ico-vn-hl-connect-mobile-banking:before {
+  content: "\e9fc";
+}
+.ico-vn-less-restriction:before {
+  content: "\e9fd";
+}
+.ico-vn-malware:before {
+  content: "\e9fe";
+}
+.ico-vn-mule-scam:before {
+  content: "\e9ff";
+}
+.ico-vn-multiple-coverage:before {
+  content: "\ea00";
+}
+.ico-vn-no-additional-car:before {
+  content: "\ea01";
+}
+.ico-vn-onetime-payment:before {
+  content: "\ea02";
+}
+.ico-vn-partial-withdrawals:before {
+  content: "\ea03";
+}
+.ico-vn-password-cracking:before {
+  content: "\ea04";
+}
+.ico-vn-properties:before {
+  content: "\ea05";
+}
+.ico-vn-protect-car:before {
+  content: "\ea06";
+}
+.ico-vn-protect-home:before {
+  content: "\ea07";
+}
+.ico-vn-report-lost-card:before {
+  content: "\ea08";
+}
+.ico-vn-simple-and-fast-process:before {
+  content: "\ea09";
+}
+.ico-vn-unsolicited-emails:before {
+  content: "\ea0a";
+}
+.ico-vn-various-choices-of-interest-payment:before {
+  content: "\ea0b";
+}
+.ico-vn-accountability:before {
+  content: "\ea0c";
+}
+.ico-vn-a-credit-line:before {
+  content: "\ea0d";
+}
+.ico-vn-adding-cost:before {
+  content: "\ea0e";
+}
+.ico-vn-a-dedicated-team:before {
+  content: "\ea0f";
+}
+.ico-vn-bank-guarantee:before {
+  content: "\ea10";
+}
+.ico-vn-benefits:before {
+  content: "\ea11";
+}
+.ico-vn-be-yourself:before {
+  content: "\ea12";
+}
+.ico-vn-business-current-account:before {
+  content: "\ea13";
+}
+.ico-vn-business-service:before {
+  content: "\ea14";
+}
+.ico-vn-cash-collection-and-payment-services:before {
+  content: "\ea15";
+}
+.ico-vn-cash-collection-services:before {
+  content: "\ea16";
+}
+.ico-vn-cash-payment-services:before {
+  content: "\ea17";
+}
+.ico-vn-customers:before {
+  content: "\ea18";
+}
+.ico-vn-deposit:before {
+  content: "\ea19";
+}
+.ico-vn-documentary-collection:before {
+  content: "\ea1a";
+}
+.ico-vn-download:before {
+  content: "\ea1b";
+}
+.ico-vn-e-inquiry:before {
+  content: "\ea1c";
+}
+.ico-vn-eliminate-exchange-rate-risk:before {
+  content: "\ea1d";
+}
+.ico-vn-exclusive-events:before {
+  content: "\ea1e";
+}
+.ico-vn-exclusive-privileges:before {
+  content: "\ea1f";
+}
+.ico-vn-exclusive-service-product-benefits:before {
+  content: "\ea20";
+}
+.ico-vn-export-finance:before {
+  content: "\ea21";
+}
+.ico-vn-export-services:before {
+  content: "\ea22";
+}
+.ico-vn-fairness:before {
+  content: "\ea23";
+}
+.ico-vn-financial-terms:before {
+  content: "\ea24";
+}
+.ico-vn-fixed-exchange-rate:before {
+  content: "\ea25";
+}
+.ico-vn-foreign-exchange-swap:before {
+  content: "\ea26";
+}
+.ico-vn-forward-exchange-contract:before {
+  content: "\ea27";
+}
+.ico-vn-golf-privileges:before {
+  content: "\ea28";
+}
+.ico-vn-high-quality:before {
+  content: "\ea29";
+}
+.ico-vn-hl-connectbiz-overview:before {
+  content: "\ea2a";
+}
+.ico-vn-human-resource:before {
+  content: "\ea2b";
+}
+.ico-vn-ideas:before {
+  content: "\ea2c";
+}
+.ico-vn-import-finance:before {
+  content: "\ea2d";
+}
+.ico-vn-import-services:before {
+  content: "\ea2e";
+}
+.ico-vn-innovations:before {
+  content: "\ea2f";
+}
+.ico-vn-inward-remittance:before {
+  content: "\ea30";
+}
+.ico-vn-letters-of-credit:before {
+  content: "\ea31";
+}
+.ico-vn-maximum-period:before {
+  content: "\ea32";
+}
+.ico-vn-merchant-discount-01:before {
+  content: "\ea34";
+}
+.ico-vn-module:before {
+  content: "\ea35";
+}
+.ico-vn-no-more-waiting:before {
+  content: "\ea36";
+}
+.ico-vn-outward-remittance:before {
+  content: "\ea37";
+}
+.ico-vn-over-the-counter-deposit:before {
+  content: "\ea38";
+}
+.ico-vn-paperwork:before {
+  content: "\ea39";
+}
+.ico-vn-payment-methods:before {
+  content: "\ea3a";
+}
+.ico-vn-payment-schedule:before {
+  content: "\ea3b";
+}
+.ico-vn-payroll-services:before {
+  content: "\ea3c";
+}
+.ico-vn-personal-service:before {
+  content: "\ea3d";
+}
+.ico-vn-pre-mature-withdrawals:before {
+  content: "\ea3e";
+}
+.ico-vn-privacy:before {
+  content: "\ea3f";
+}
+.ico-vn-project-business-expansion-financing:before {
+  content: "\ea40";
+}
+.ico-vn-pushing-boundaries:before {
+  content: "\ea41";
+}
+.ico-vn-regional-access:before {
+  content: "\ea42";
+}
+.ico-vn-register:before {
+  content: "\ea43";
+}
+.ico-vn-reliability:before {
+  content: "\ea44";
+}
+.ico-vn-remittance-services:before {
+  content: "\ea45";
+}
+.ico-vn-security:before {
+  content: "\ea46";
+}
+.ico-vn-security-tips:before {
+  content: "\ea47";
+}
+.ico-vn-short-term-placement:before {
+  content: "\ea48";
+}
+.ico-vn-simple-document:before {
+  content: "\ea49";
+}
+.ico-vn-simplest-tool:before {
+  content: "\ea4a";
+}
+.ico-vn-social-responsibility:before {
+  content: "\ea4b";
+}
+.ico-vn-spot-foreign-exchange:before {
+  content: "\ea4c";
+}
+.ico-vn-submit-form:before {
+  content: "\ea4d";
+}
+.ico-vn-trade-finance:before {
+  content: "\ea4e";
+}
+.ico-vn-transparency:before {
+  content: "\ea4f";
+}
+.ico-vn-unity:before {
+  content: "\ea50";
+}
+.ico-vn-variety:before {
+  content: "\ea51";
+}
+.ico-vn-working-capital-financing:before {
+  content: "\ea52";
+}
+.ico-vn-a-account-opening:before {
+  content: "\ea53";
+}
+.ico-vn-anti-virus-software:before {
+  content: "\ea54";
+}
+.ico-vn-atm-cards:before {
+  content: "\ea55";
+}
+.ico-vn-auto-insurance:before {
+  content: "\ea56";
+}
+.ico-vn-available-in-many-currencies:before {
+  content: "\ea57";
+}
+.ico-vn-available-in-vietnamese:before {
+  content: "\ea58";
+}
+.ico-vn-be-precise:before {
+  content: "\ea59";
+}
+.ico-vn-car-loans:before {
+  content: "\ea5a";
+}
+.ico-vn-check-book:before {
+  content: "\ea5b";
+}
+.ico-vn-convenient-transaction-napas-atm:before {
+  content: "\ea5c";
+}
+.ico-vn-credit-life-insurance1:before {
+  content: "\ea5d";
+}
+.ico-vn-critical-illness-insurance:before {
+  content: "\ea5e";
+}
+.ico-vn-current_account:before {
+  content: "\ea5f";
+}
+.ico-vn-disable-auto-save-functions1:before {
+  content: "\ea60";
+}
+.ico-vn-factory-warehouse-insurance:before {
+  content: "\ea61";
+}
+.ico-vn-fast-card-issued:before {
+  content: "\ea62";
+}
+.ico-vn-first-home-loan:before {
+  content: "\ea63";
+}
+.ico-vn-fixed_deposits:before {
+  content: "\ea64";
+}
+.ico-vn-flexible-term:before {
+  content: "\ea65";
+}
+.ico-vn-free-fee:before {
+  content: "\ea66";
+}
+.ico-vn-hl-connect-mobile-banking1:before {
+  content: "\ea67";
+}
+.ico-vn-hl-connect-online-banking-overview:before {
+  content: "\ea68";
+}
+.ico-vn-house-insurance:before {
+  content: "\ea69";
+}
+.ico-vn-housing-loans:before {
+  content: "\ea6a";
+}
+.ico-vn-instant-transfer:before {
+  content: "\ea6b";
+}
+.ico-vn-interest-calculated-daily:before {
+  content: "\ea6c";
+}
+.ico-vn-interest-rate:before {
+  content: "\ea6d";
+}
+.ico-vn-keep-it-private:before {
+  content: "\ea6f";
+}
+.ico-vn-keystroke-logging:before {
+  content: "\ea70";
+}
+.ico-vn-login-spoofing:before {
+  content: "\ea71";
+}
+.ico-vn-online-and-mobile-banking:before {
+  content: "\ea72";
+}
+.ico-vn-passbook:before {
+  content: "\ea73";
+}
+.ico-vn-password-cracking1:before {
+  content: "\ea74";
+}
+.ico-vn-personal-accident-insurance:before {
+  content: "\ea75";
+}
+.ico-vn-personal-secured-loans:before {
+  content: "\ea76";
+}
+.ico-vn-savings-account:before {
+  content: "\ea77";
+}
+.ico-vn-secure:before {
+  content: "\ea78";
+}
+.ico-vn-securely-store:before {
+  content: "\ea79";
+}
+.ico-vn-secure-websites:before {
+  content: "\ea7a";
+}
+.ico-vn-shoulder-surfing:before {
+  content: "\ea7b";
+}
+.ico-vn-spyware:before {
+  content: "\ea7c";
+}
+.ico-vn-unsolicited-emails1:before {
+  content: "\ea7d";
+}
+.ico-vn-view-transaction-records:before {
+  content: "\ea7e";
+}
+.ico-vn-withdraw-cash-up-to-14-acc:before {
+  content: "\ea7f";
+}
+.ico-aa-be-priority:before {
+  content: "\e9e6";
+}
+.ico-aa-big-points:before {
+  content: "\e9e7";
+}
+.ico-aa-big-points-boost:before {
+  content: "\e9e8";
+}
+.ico-aa-bonus-big-points:before {
+  content: "\e9e9";
+}
+.ico-aa-fee-waiver:before {
+  content: "\e9ea";
+}
+.ico-about-captial-markets:before {
+  content: "\e91f";
+}
+.ico-about-global-islamic-markets:before {
+  content: "\e920";
+}
+.ico-advisory:before {
+  content: "\e921";
+}
+.ico-air-miles:before {
+  content: "\e9a7";
+}
+.ico-atm:before {
+  content: "\e922";
+}
+.ico-awards:before {
+  content: "\e923";
+}
+.ico-bank:before {
+  content: "\e924";
+}
+.ico-banking-business:before {
+  content: "\e925";
+}
+.ico-board-charter:before {
+  content: "\e926";
+}
+.ico-board-of-directors:before {
+  content: "\e927";
+}
+.ico-boardroom-changes:before {
+  content: "\e928";
+}
+.ico-bonds:before {
+  content: "\e929";
+}
+.ico-borrow:before {
+  content: "\e92a";
+}
+.ico-bt:before {
+  content: "\e9b6";
+}
+.ico-burger-menu:before {
+  content: "\e900";
+  color: #002147;
+}
+.ico-burger-menu-2:before {
+  content: "\e910";
+}
+.ico-business:before {
+  content: "\e92b";
+}
+.ico-business-auto-debit:before {
+  content: "\e9bd";
+}
+.ico-business-customer-support:before {
+  content: "\e9be";
+}
+.ico-business-debit-card:before {
+  content: "\e9bf";
+}
+.ico-business-epp:before {
+  content: "\e9c0";
+}
+.ico-business-fast-approval:before {
+  content: "\e9c1";
+}
+.ico-business-moto:before {
+  content: "\e9c2";
+}
+.ico-business-mpos:before {
+  content: "\e9c3";
+}
+.ico-business-online-application:before {
+  content: "\e9c4";
+}
+.ico-business-online-payment:before {
+  content: "\e9c5";
+}
+.ico-business-support:before {
+  content: "\e9c6";
+}
+.ico-business-terminal:before {
+  content: "\e9c7";
+}
+.ico-calculator:before {
+  content: "\e92c";
+}
+.ico-calender:before {
+  content: "\e91b";
+}
+.ico-capital-and-debt-securities:before {
+  content: "\e92d";
+}
+.ico-car:before {
+  content: "\e92e";
+}
+.ico-car-and-travel-insurance:before {
+  content: "\e92f";
+}
+.ico-car-insurance:before {
+  content: "\e9a2";
+}
+.ico-card-activation:before {
+  content: "\e9c9";
+}
+.ico-card-insurance:before {
+  content: "\e930";
+}
+.ico-card-replacement:before {
+  content: "\e9ca";
+}
+.ico-cardless-withdrawal:before {
+  content: "\e9a8";
+}
+.ico-career:before {
+  content: "\e931";
+}
+.ico-cash-back-return:before {
+  content: "\e932";
+}
+.ico-cash-return:before {
+  content: "\e933";
+}
+.ico-cc-application:before {
+  content: "\e9cb";
+}
+.ico-cfc:before {
+  content: "\e9b7";
+}
+.ico-chit-chat-ringgit:before {
+  content: "\e9e0";
+}
+.ico-circulars:before {
+  content: "\e934";
+}
+.ico-close:before {
+  content: "\e901";
+}
+.ico-commercial-and-sme:before {
+  content: "\e935";
+}
+.ico-compare-credit-cards:before {
+  content: "\e936";
+}
+.ico-compliance:before {
+  content: "\e937";
+}
+.ico-confirmation:before {
+  content: "\e9d2";
+}
+.ico-connect:before {
+  content: "\e902";
+  color: #002147;
+}
+.ico-connect-biz:before {
+  content: "\e939";
+}
+.ico-connect-devices:before {
+  content: "\e93a";
+}
+.ico-connect-online:before {
+  content: "\e93b";
+}
+.ico-connect2:before {
+  content: "\e938";
+}
+.ico-contact-center:before {
+  content: "\e903";
+}
+.ico-contact-us:before {
+  content: "\e9af";
+}
+.ico-contacts:before {
+  content: "\e93c";
+}
+.ico-convenience:before {
+  content: "\e93d";
+}
+.ico-credit-card-recommender:before {
+  content: "\e9b4";
+}
+.ico-credit-cards:before {
+  content: "\e93e";
+}
+.ico-credit-rating:before {
+  content: "\e93f";
+}
+.ico-currency-exchange-service:before {
+  content: "\e940";
+}
+.ico-current-account:before {
+  content: "\e941";
+}
+.ico-dd-2018 .path1:before {
+  content: "\e9d3";
+  color: rgb(226, 29, 57);
+}
+.ico-dd-2018 .path2:before {
+  content: "\e9d7";
+  margin-left: -1em;
+  color: rgb(16, 36, 70);
+}
+.ico-dd1 .path1:before {
+  content: "\e9d8";
+  color: rgb(226, 29, 57);
+}
+.ico-dd1 .path2:before {
+  content: "\e9d9";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ico-dd2:before {
+  content: "\e9da";
+  color: #e21d39;
+}
+.ico-dd3:before {
+  content: "\e9db";
+}
+.ico-dd4 .path1:before {
+  content: "\e9dc";
+  color: rgb(226, 29, 57);
+}
+.ico-dd4 .path2:before {
+  content: "\e9dd";
+  margin-left: -1em;
+  color: rgb(16, 36, 70);
+}
+.ico-debit-card:before {
+  content: "\e942";
+}
+.ico-deposit:before {
+  content: "\e943";
+}
+.ico-derivatives:before {
+  content: "\e944";
+}
+.ico-digital-day:before {
+  content: "\e9a4";
+  color: #64b8db;
+}
+.ico-dining:before {
+  content: "\e945";
+}
+.ico-director-interest:before {
+  content: "\e946";
+}
+.ico-directors:before {
+  content: "\e947";
+}
+.ico-document:before {
+  content: "\e904";
+  color: #9a9a9a;
+}
+.ico-down:before {
+  content: "\e905";
+  color: #002147;
+}
+.ico-download:before {
+  content: "\e906";
+}
+.ico-duitnow:before {
+  content: "\e9e5";
+}
+.ico-duitnow1:before {
+  content: "\e9e4";
+}
+.ico-easy-menang:before {
+  content: "\e9df";
+  color: #e7b318;
+}
+.ico-education:before {
+  content: "\e948";
+}
+.ico-education-insurance:before {
+  content: "\e949";
+}
+.ico-endowment-insurance:before {
+  content: "\e94a";
+}
+.ico-error:before {
+  content: "\e907";
+  color: #ef2f23;
+}
+.ico-face-id:before {
+  content: "\e9de";
+}
+.ico-facebook:before {
+  content: "\e908";
+}
+.ico-fast-track:before {
+  content: "\e909";
+}
+.ico-fax-redemption:before {
+  content: "\e90a";
+}
+.ico-fifa:before {
+  content: "\e9b9";
+}
+.ico-financial-basics2:before {
+  content: "\e9e1";
+}
+.ico-financing-i:before {
+  content: "\e94b";
+}
+.ico-fingerprint-login:before {
+  content: "\e9a9";
+}
+.ico-fixed-deposit-account:before {
+  content: "\e94c";
+}
+.ico-flexi-term:before {
+  content: "\e94d";
+}
+.ico-flexibility:before {
+  content: "\e94e";
+}
+.ico-forex-products:before {
+  content: "\e94f";
+}
+.ico-fpp:before {
+  content: "\e9b8";
+}
+.ico-fund-raising:before {
+  content: "\e950";
+}
+.ico-general-doc:before {
+  content: "\e90b";
+  color: #676767;
+}
+.ico-general-faq:before {
+  content: "\e951";
+}
+.ico-general-news:before {
+  content: "\e952";
+}
+.ico-gift-box:before {
+  content: "\e9d4";
+}
+.ico-global-market-products:before {
+  content: "\e953";
+}
+.ico-home-insurance:before {
+  content: "\e954";
+}
+.ico-insure:before {
+  content: "\e955";
+}
+.ico-interest:before {
+  content: "\e956";
+}
+.ico-interest-page:before {
+  content: "\e957";
+}
+.ico-investment-linked-insurance:before {
+  content: "\e958";
+}
+.ico-investment-products:before {
+  content: "\e959";
+}
+.ico-investment-solutions1:before {
+  content: "\e95a";
+}
+.ico-investment-solutions2:before {
+  content: "\e95b";
+}
+.ico-investment1:before {
+  content: "\e95c";
+}
+.ico-investment2:before {
+  content: "\e95d";
+}
+.ico-investment3:before {
+  content: "\e95e";
+}
+.ico-investors:before {
+  content: "\e95f";
+}
+.ico-islamic-business:before {
+  content: "\e960";
+}
+.ico-islamic-money-markets:before {
+  content: "\e961";
+}
+.ico-junior-savings:before {
+  content: "\e962";
+}
+.ico-juvenile-critical:before {
+  content: "\e963";
+}
+.ico-languages-option:before {
+  content: "\e9a5";
+}
+.ico-left:before {
+  content: "\e90c";
+  color: #002147;
+}
+.ico-life-insurance:before {
+  content: "\e964";
+}
+.ico-lifestyle:before {
+  content: "\e965";
+}
+.ico-linkedin:before {
+  content: "\e90d";
+}
+.ico-loan-and-financing:before {
+  content: "\e966";
+}
+.ico-location:before {
+  content: "\e90e";
+  color: #002147;
+}
+.ico-location2:before {
+  content: "\e967";
+}
+.ico-long-term:before {
+  content: "\e968";
+}
+.ico-low-rate:before {
+  content: "\e969";
+}
+.ico-medical-insurance:before {
+  content: "\e96a";
+}
+.ico-micro-sme:before {
+  content: "\e96b";
+}
+.ico-middle-term:before {
+  content: "\e96c";
+}
+.ico-minus:before {
+  content: "\e90f";
+  color: #ef2f23;
+}
+.ico-money-markets1:before {
+  content: "\e96d";
+}
+.ico-money-markets2:before {
+  content: "\e96e";
+}
+.ico-motor-insurance:before {
+  content: "\e9a3";
+}
+.ico-motor-loan:before {
+  content: "\e96f";
+}
+.ico-movie:before {
+  content: "\e970";
+}
+.ico-news-and-update:before {
+  content: "\e971";
+}
+.ico-no:before {
+  content: "\e91d";
+}
+.ico-no-frills:before {
+  content: "\e972";
+}
+.ico-notify-overseas-travel:before {
+  content: "\e9cd";
+}
+.ico-online-redemption:before {
+  content: "\e916";
+}
+.ico-open-transfer:before {
+  content: "\e9b2";
+}
+.ico-overview:before {
+  content: "\e973";
+}
+.ico-pay-mobile:before {
+  content: "\e9aa";
+}
+.ico-pdf:before {
+  content: "\e91e";
+}
+.ico-peace-of-mind:before {
+  content: "\e974";
+}
+.ico-personal-accident-insurance:before {
+  content: "\e975";
+}
+.ico-personal-loan:before {
+  content: "\e976";
+}
+.ico-personal-loan-2:before {
+  content: "\e9ce";
+}
+.ico-petrol:before {
+  content: "\e977";
+}
+.ico-phone:before {
+  content: "\e911";
+  color: #002147;
+}
+.ico-phone-inverted:before {
+  content: "\e9b0";
+}
+.ico-plan-earlier:before {
+  content: "\e978";
+}
+.ico-plus:before {
+  content: "\e912";
+  color: #002147;
+}
+.ico-popcorn:before {
+  content: "\e9d5";
+}
+.ico-premium:before {
+  content: "\e979";
+}
+.ico-premium-deposits:before {
+  content: "\e97a";
+}
+.ico-premium1:before {
+  content: "\e97b";
+}
+.ico-premium2:before {
+  content: "\e97c";
+}
+.ico-prepaid-reload:before {
+  content: "\e9ab";
+}
+.ico-product-faq:before {
+  content: "\e97d";
+}
+.ico-products:before {
+  content: "\e97e";
+}
+.ico-promotions:before {
+  content: "\e97f";
+}
+.ico-property-loan:before {
+  content: "\e980";
+}
+.ico-protection:before {
+  content: "\e981";
+}
+.ico-raya-campaign:before {
+  content: "\e9c8";
+}
+.ico-recommender:before {
+  content: "\e982";
+}
+.ico-remit:before {
+  content: "\e983";
+}
+.ico-remove-credit-card:before {
+  content: "\e913";
+  color: #9a9a9a;
+}
+.ico-report-lost:before {
+  content: "\e9cf";
+}
+.ico-reports:before {
+  content: "\e984";
+}
+.ico-request-mobile:before {
+  content: "\e9ac";
+}
+.ico-research:before {
+  content: "\e985";
+}
+.ico-retirement-insurance:before {
+  content: "\e986";
+}
+.ico-reward:before {
+  content: "\e9d0";
+}
+.ico-rewards:before {
+  content: "\e987";
+}
+.ico-right:before {
+  content: "\e914";
+  color: #002147;
+}
+.ico-safe-deposit-box:before {
+  content: "\e988";
+}
+.ico-sal:before {
+  content: "\e9d1";
+}
+.ico-saving:before {
+  content: "\e989";
+}
+.ico-savings-account:before {
+  content: "\e98a";
+}
+.ico-scan-pay:before {
+  content: "\e9ad";
+}
+.ico-search:before {
+  content: "\e915";
+  color: #002147;
+}
+.ico-search2:before {
+  content: "\e98b";
+}
+.ico-secretary:before {
+  content: "\e98c";
+}
+.ico-self-service-phone-banking:before {
+  content: "\e9b3";
+}
+.ico-services:before {
+  content: "\e98d";
+}
+.ico-set-pin:before {
+  content: "\e9e2";
+}
+.ico-share:before {
+  content: "\e98e";
+}
+.ico-share-financing:before {
+  content: "\e98f";
+}
+.ico-shareholding-changes:before {
+  content: "\e990";
+}
+.ico-shopping:before {
+  content: "\e991";
+}
+.ico-short-term:before {
+  content: "\e992";
+}
+.ico-story:before {
+  content: "\e993";
+}
+.ico-strategize:before {
+  content: "\e994";
+}
+.ico-structured:before {
+  content: "\e995";
+}
+.ico-super-remit:before {
+  content: "\e996";
+}
+.ico-sustainability:before {
+  content: "\e997";
+}
+.ico-switch-rewards-categories:before {
+  content: "\e998";
+}
+.ico-telegraphy-transfer:before {
+  content: "\e999";
+}
+.ico-tickets:before {
+  content: "\e9d6";
+}
+.ico-tnc:before {
+  content: "\e917";
+  color: #676767;
+}
+.ico-trade-services:before {
+  content: "\e99a";
+}
+.ico-transaction-signing:before {
+  content: "\e9ae";
+}
+.ico-travel:before {
+  content: "\e99b";
+}
+.ico-travel-happy-award-winning:before {
+  content: "\e9ba";
+  color: #001648;
+}
+.ico-travel-happy-partner:before {
+  content: "\e9bb";
+  color: #001648;
+}
+.ico-travel-happy-pay-as-you-go:before {
+  content: "\e9bc";
+  color: #001648;
+}
+.ico-treasury-solutions:before {
+  content: "\e99c";
+}
+.ico-truck:before {
+  content: "\e99d";
+}
+.ico-twitter:before {
+  content: "\e918";
+}
+.ico-twitter-inverted:before {
+  content: "\e9b1";
+}
+.ico-unit-trust:before {
+  content: "\e99e";
+}
+.ico-up:before {
+  content: "\e919";
+  color: #002147;
+}
+.ico-update-contact-info:before {
+  content: "\e9e3";
+}
+.ico-van:before {
+  content: "\e99f";
+}
+.ico-visa-dc:before {
+  content: "\e9eb";
+}
+.ico-wallet:before {
+  content: "\e9a0";
+}
+.ico-wechat:before {
+  content: "\e9b5";
+}
+.ico-western-union:before {
+  content: "\e9a1";
+}
+.ico-word-banking:before {
+  content: "\e9a6";
+}
+.ico-yes:before {
+  content: "\e91c";
+}
+.ico-youtube:before {
+  content: "\e91a";
+  color: #9a9a9a;
+}
